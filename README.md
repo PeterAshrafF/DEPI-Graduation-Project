@@ -1,7 +1,5 @@
 # DEPI-Graduation-Project
 
-# README for Linking Google Drive Video with Presentation
-
 ---
 
 ## Video Title  
